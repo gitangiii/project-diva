@@ -154,7 +154,7 @@
                                                 </div>
                                             </div>
                                             <div class="account-dropdown__footer">
-                                                <a href="#"><a class="nav-link" href="{{('login.blade.php') }}">
+                                                <a href="#"><a href="/login">
                                                     <i class="zmdi zmdi-power"></i>Logout</a>
                                             </div>
                                         </div>
@@ -174,7 +174,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="editdata-wrap">
-                                    <h2 class="title-1">Edit Data</h2>
+                                    <h2 class="title-1">Input Data</h2>
                                 </div>
                             </div>
                         </div>
